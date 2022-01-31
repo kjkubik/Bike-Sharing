@@ -20,7 +20,7 @@ additional visualizations that you would perform with the given dataset.
 
 The results are at
 
-[link to dashboard](https://public.tableau.com/app/profile/kim.kubik/viz/ChallengeMod14/Story1)
+[link to dashboard](https://public.tableau.com/app/profile/kim.kubik/viz/Challenge_14_16436332383290/Story1)
 
 
 Note: I didn't find this lesson very realistic.  That is, NYC and Des Moines, IA are so
