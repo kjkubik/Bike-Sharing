@@ -33,7 +33,7 @@ I found:
 1) Bicycle graveyards:
    https://www.bbc.com/future/article/20210112-the-vast-bicycle-graveyards-of-china
 2) Need for significate government funding and other
-   donation
+   donations
 3) Issues surrounding bike sharing:
    https://citymonitor.ai/transport/do-economics-bike-sharing-schemes-stack-3352
 
