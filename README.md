@@ -1,5 +1,4 @@
 # bike sharing
-
 Using Tableau, Python, Pandas, Jupyter Notebooks to analyze whether a ‘scaled version’ of bike sharing discovered in NY will work in Des Moines, IA
 
 ## Overview of the analysis:
