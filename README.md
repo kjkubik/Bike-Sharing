@@ -17,7 +17,7 @@ describe the results of each visualization underneath the image.
 Provide a high-level summary of the results and two
 additional visualizations that you would perform with the given dataset.
 
-The results are at
+## Results: (TABLEAU)
 
 [link to dashboard](https://public.tableau.com/app/profile/kim.kubik/viz/Challenge_14_16436332383290/Story1)
 
