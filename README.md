@@ -21,6 +21,7 @@ additional visualizations that you would perform with the given dataset.
 
 [link to dashboard](https://public.tableau.com/app/profile/kim.kubik/viz/Challenge_14_16436332383290/Story1)
 
+![](Images/Tableau.png)
 
 Note: I didn't find this lesson very realistic.  That is, NYC and Des Moines, IA are so
 demographically different, I don't know if my company should be presenting NYC
